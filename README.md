@@ -2,7 +2,7 @@
 UO Data Visualization Bootcamp | Project 3: NBA Stats Data Engineering
 
 Team Members:
-* Brenit Lang
+* Brent Lang
 * Julia Olson
 * Jerrica Raemer
 * Liz Martin-Strong
